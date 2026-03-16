@@ -268,3 +268,36 @@ html{
     }
     
     
+
+
+body{
+    font-family: ubuntu;
+    text-align:center;
+    color: black;
+}
+
+#forca{
+    margin-top:20px;
+}
+
+#palavra{
+    font-size:35px;
+    letter-spacing:10px;
+}
+
+#letrasErradas{
+    color:red;
+    font-size:25px;
+    font-weight:bold;
+}
+
+input{
+    padding:5px;
+    font-size:17px;
+}
+
+.button{
+    font-size:16px;
+    padding:5px 10px;
+    cursor:pointer;
+}
